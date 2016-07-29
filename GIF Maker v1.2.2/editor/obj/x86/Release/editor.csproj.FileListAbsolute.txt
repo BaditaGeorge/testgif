@@ -1,0 +1,37 @@
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\bin\Release\editor.exe
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\bin\Release\editor.pdb
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\obj\x86\Release\editor.Form1.resources
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\obj\x86\Release\editor.Form2.resources
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\obj\x86\Release\editor.Properties.Resources.resources
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\obj\x86\Release\editor.csproj.GenerateResource.Cache
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\obj\x86\Release\editor.exe
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\obj\x86\Release\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Release\editor.csprojResolveAssemblyReference.cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Release\editor.Collage.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Release\editor.Form1.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Release\editor.Form2.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Release\editor.Form3.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Release\editor.Form4.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Release\editor.Form5.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Release\editor.Form6.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Release\editor.Form7.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Release\editor.Form8.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Release\editor.Properties.Resources.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Release\editor.csproj.GenerateResource.Cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Release\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Release\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Release\editor.exe.config
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Release\editor.csprojResolveAssemblyReference.cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Release\editor.Collage.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Release\editor.Form1.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Release\editor.Form2.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Release\editor.Form3.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Release\editor.Form4.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Release\editor.Form5.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Release\editor.Form6.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Release\editor.Form7.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Release\editor.Form9.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Release\editor.Properties.Resources.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Release\editor.csproj.GenerateResource.Cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Release\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Release\editor.pdb
