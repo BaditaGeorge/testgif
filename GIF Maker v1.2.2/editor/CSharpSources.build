@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<project name="FFmpeg.NET" default="build" basedir=".">
+	<description>FFmpeg.NET C# Sources.</description>
+	<target name="build-debug-shared" description="compiles the source code">
+		<csc output="../${IntermediateDir}/ffmpeg.cs.netmodule" target="module" debug="Full">
+			<sources>
+				<include name="test.cs" />
+			</sources>
+			<references>
+				<include name="System.dll" />
+			</references>
+			<modules>
+				<include name="../${IntermediateDir}/Utility.obj" />
+			</modules>
+		</csc>
+	</target>
+	<target name="build-release-static" description="compiles the source code">
+		<csc output="../${IntermediateDir}/ffmpeg.cs.netmodule" target="module" optimize="true">
+			<sources>
+				<include name="test.cs" />
+			</sources>
+			<references>
+				<include name="System.dll" />
+			</references>
+			<modules>
+				<include name="../${IntermediateDir}/Utility.obj" />
+			</modules>
+		</csc>
+	</target>
+</project>
