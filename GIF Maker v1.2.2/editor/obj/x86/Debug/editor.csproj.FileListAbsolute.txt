@@ -1,0 +1,553 @@
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\bin\Debug\editor.exe
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\bin\Debug\editor.pdb
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\obj\x86\Debug\editor.exe
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\obj\x86\Debug\editor.pdb
+C:\Users\Gogu'\AppData\Local\Temporary Projects\editor\obj\x86\Debug\editor.Form3.resources
+D:\proiecteinfo\editor\editor\obj\x86\Debug\editor.exe
+D:\proiecteinfo\editor\editor\obj\x86\Debug\editor.pdb
+D:\proiecteinfo\editor\editor\bin\Debug\editor.exe
+D:\proiecteinfo\editor\editor\bin\Debug\editor.pdb
+D:\proiecteinfo\editor\editor\obj\x86\Debug\editor.Form1.resources
+D:\proiecteinfo\editor\editor\obj\x86\Debug\editor.Form2.resources
+D:\proiecteinfo\editor\editor\obj\x86\Debug\editor.Form3.resources
+D:\proiecteinfo\editor\editor\obj\x86\Debug\editor.Properties.Resources.resources
+D:\proiecteinfo\editor\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+D:\proiecteinfo\editor\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Elev\Desktop\editor\editor\obj\x86\Debug\editor.exe
+C:\Users\Elev\Desktop\editor\editor\obj\x86\Debug\editor.pdb
+C:\Users\Elev\Desktop\editor\editor\bin\Debug\editor.exe
+C:\Users\Elev\Desktop\editor\editor\bin\Debug\editor.pdb
+C:\Users\Elev\Desktop\editor\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Elev\Desktop\editor\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Elev\Desktop\editor\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Elev\Desktop\editor\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Elev\Desktop\editor\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Elev\Desktop\editor\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Elev\Desktop\editor2\editor\obj\x86\Debug\editor.exe
+C:\Users\Elev\Desktop\editor2\editor\obj\x86\Debug\editor.pdb
+C:\Users\Elev\Desktop\editor2\editor\bin\Debug\editor.exe
+C:\Users\Elev\Desktop\editor2\editor\bin\Debug\editor.pdb
+C:\Users\Elev\Desktop\editor2\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Elev\Desktop\editor2\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Elev\Desktop\editor2\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Elev\Desktop\editor2\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Elev\Desktop\editor2\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Elev\Desktop\editor2\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+D:\proiecteinfo\editor2\editor\obj\x86\Debug\editor.exe
+D:\proiecteinfo\editor2\editor\obj\x86\Debug\editor.pdb
+D:\proiecteinfo\editor2\editor\bin\Debug\editor.exe
+D:\proiecteinfo\editor2\editor\bin\Debug\editor.pdb
+D:\proiecteinfo\editor2\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+D:\proiecteinfo\editor2\editor\obj\x86\Debug\editor.Form1.resources
+D:\proiecteinfo\editor2\editor\obj\x86\Debug\editor.Form2.resources
+D:\proiecteinfo\editor2\editor\obj\x86\Debug\editor.Form3.resources
+D:\proiecteinfo\editor2\editor\obj\x86\Debug\editor.Properties.Resources.resources
+D:\proiecteinfo\editor2\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+D:\proiecteinfo\editor2\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Elev\Desktop\editor2\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Gogu'\Desktop\da\editor2\editor\obj\x86\Debug\editor.exe
+C:\Users\Gogu'\Desktop\da\editor2\editor\obj\x86\Debug\editor.pdb
+C:\Users\Gogu'\Desktop\da\editor2\editor\bin\Debug\editor.exe
+C:\Users\Gogu'\Desktop\da\editor2\editor\bin\Debug\editor.pdb
+C:\Users\Gogu'\Desktop\da\editor2\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Gogu'\Desktop\da\editor2\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Gogu'\Desktop\da\editor2\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Gogu'\Desktop\da\editor2\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Gogu'\Desktop\da\editor2\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Gogu'\Desktop\da\editor2\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Gogu'\Desktop\da\editor2\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Gogu'\Desktop\da\editor2\editor\bin\Debug\Database1.mdf
+C:\Users\Gogu'\Desktop\da\editor2\editor\bin\Debug\Database1_log.ldf
+C:\Users\Gogu'\Desktop\da\editor2\editor\bin\Debug\editor.exe.config
+C:\Users\Gogu'\Desktop\da\editor2\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Gogu'\Desktop\da\editor2\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Administrator\Desktop\editor2\editor\bin\Debug\editor.exe.config
+C:\Users\Administrator\Desktop\editor2\editor\obj\x86\Debug\editor.exe
+C:\Users\Administrator\Desktop\editor2\editor\obj\x86\Debug\editor.pdb
+C:\Users\Administrator\Desktop\editor2\editor\bin\Debug\Database1.mdf
+C:\Users\Administrator\Desktop\editor2\editor\bin\Debug\Database1_log.ldf
+C:\Users\Administrator\Desktop\editor2\editor\bin\Debug\editor.exe
+C:\Users\Administrator\Desktop\editor2\editor\bin\Debug\editor.pdb
+C:\Users\Administrator\Desktop\editor2\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\editor2\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Administrator\Desktop\editor2\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Administrator\Desktop\editor2\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Administrator\Desktop\editor2\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Administrator\Desktop\editor2\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Administrator\Desktop\editor2\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Administrator\Desktop\editor2\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\editor2\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\bin\Debug\editor.exe.config
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\bin\Debug\Database1.mdf
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\bin\Debug\Database1_log.ldf
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\bin\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\bin\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\bin\Debug\Gif.Components.dll
+C:\Users\Alex-Deidei\Desktop\Editor - last\editor2\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\bin\Debug\editor.exe.config
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.exe
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.pdb
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\bin\Debug\Database1.mdf
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\bin\Debug\Database1_log.ldf
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\bin\Debug\editor.exe
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\bin\Debug\editor.pdb
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Editor - last\editor2\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\bin\Debug\editor.exe.config
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\obj\x86\Debug\editor.exe
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\obj\x86\Debug\editor.pdb
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\bin\Debug\Database1.mdf
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\bin\Debug\Database1_log.ldf
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\bin\Debug\editor.exe
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\bin\Debug\editor.pdb
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Gogu'\Desktop\da\Editor - last\editor2\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.exe.config
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\bin\Debug\Database1.mdf
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\bin\Debug\Database1_log.ldf
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Alex-Deidei\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form8.resources
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.exe.config
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.exe
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.pdb
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\bin\Debug\Database1.mdf
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\bin\Debug\Database1_log.ldf
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.exe
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.pdb
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form8.resources
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.exe.config
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\Database1.mdf
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\Database1_log.ldf
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form8.resources
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\AForge.Video.dll
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.exe.config
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.exe
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.pdb
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\Database1.mdf
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\Database1_log.ldf
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.exe
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.pdb
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form8.resources
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Etapa Judeteana\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.exe.config
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.exe
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.pdb
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\bin\Debug\Database1.mdf
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\bin\Debug\Database1_log.ldf
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.exe
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.pdb
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form8.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.0.1\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.exe.config
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.exe
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.pdb
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\Database1.mdf
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\Database1_log.ldf
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.exe
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.pdb
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form8.resources
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Gogu'\Desktop\da\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Collage.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.exe.config
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\Database1.mdf
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\Database1_log.ldf
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Collage.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form8.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.2\Editor - design\Editor - last\editor2\editor\obj\x86\Debug\editor.Form9.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\bin\Debug\editor.exe.config
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\bin\Debug\Database1.mdf
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\bin\Debug\Database1_log.ldf
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\bin\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\bin\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Collage.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form8.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form9.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.exe.config
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Database1.mdf
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Database1_log.ldf
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Collage.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form8.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form9.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.0.9\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.exe.config
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Database1.mdf
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Database1_log.ldf
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Collage.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form9.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.exe.config
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Collage.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form9.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Database1.mdf
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Database1_log.ldf
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.exe.config
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Database1.mdf
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Database1_log.ldf
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.dll
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Collage.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form9.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.exe.config
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Database1.mdf
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Database1_log.ldf
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Collage.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form9.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.2\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.exe.config
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Database1.mdf
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Database1_log.ldf
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.dll
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Collage.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Form9.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.4\Etapa nationala v1.1.0 - cu design\Resurse\Etapa nationala v1.0.9\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\bin\Debug\editor.exe.config
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\bin\Debug\Database1.mdf
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\bin\Debug\Database1_log.ldf
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\bin\Debug\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\bin\Debug\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Collage.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form9.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.5\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\bin\Debug\editor.exe.config
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\bin\Debug\Database1.mdf
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\bin\Debug\Database1_log.ldf
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\bin\Debug\editor.exe
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\bin\Debug\editor.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Collage.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form9.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Alex-Deidei\Desktop\Etapa nationala v1.1.7\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\editor.exe.config
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\Database1.mdf
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\Database1_log.ldf
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Collage.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form9.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\editor.exe.config
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.exe
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.pdb
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\Database1.mdf
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\Database1_log.ldf
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\editor.exe
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\editor.pdb
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Collage.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form9.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Etapa nationala v1.1.9\Etapa nationala v1.1.5\editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\bin\Debug\editor.exe.config
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\bin\Debug\Database1.mdf
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\bin\Debug\Database1_log.ldf
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\bin\Debug\editor.exe
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\bin\Debug\editor.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\bin\Debug\AForge.Video.FFMPEG.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\bin\Debug\Gif.Components.pdb
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.csprojResolveAssemblyReference.cache
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Collage.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form1.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form2.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form3.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form4.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form5.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form6.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form7.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Form9.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.Properties.Resources.resources
+C:\Users\Profesor\Desktop\Etapa nationala v1.2.1\Etapa nationala v1.1.5\editor\obj\x86\Debug\editor.csproj.GenerateResource.Cache
